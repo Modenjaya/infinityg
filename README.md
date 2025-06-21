@@ -9,8 +9,9 @@ SETUP & CONFIGURE BOT
 ```bash
 https://github.com/Modenjaya/infinityg
 ```
-
+```bash
 npm install fs axios cfonts chalk@4.1.2
+```
 2.Configure the bot config (you can use bearer token)
 ```bash
 nano token.txt
